@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/leveller/level1.unity
+  isLoaded: 1
+  isActive: 1
